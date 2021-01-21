@@ -1,0 +1,10 @@
+modules/accessgroups/terraform.tfstate
+modules/accessgroups/terraform.tfstate.backup
+modules/accessgroups/.terraform.lock.hcl
+modules/accessgroups/.terraform/providers/registry.terraform.io/ibm-cloud/ibm/1.14.0/windows_amd64/terraform-provider-ibm_v1.14.0.exe
+modules/accessgroups/.terraform/providers/registry.terraform.io/ibm-cloud/ibm/1.14.0/windows_amd64/__MACOSX/._terraform-provider-ibm_v1.14.0.exe
+modules/accessgroups/terraform.tfstate.backup
+modules/accessgroups/terraform_key.json
+sensitive.tfvars
+terraform_key.json
+sensitive.tfvars
